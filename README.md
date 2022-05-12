@@ -16,7 +16,7 @@ create the migrations. I created a seeder to upload the excel file located in pu
 to the DB. I used resources to display the requested zip_code, also I created a route of type get
 in api.php (/zip-code/{zip_code}) and I maded the binding to the model in RouteServiceProvider file
 
-I finally deployed the app on Heroku
+I finally deployed the app on Heroku [click here to see an example](https://desolate-earth-55245.herokuapp.com/api/zip-code/25300)
 
 ### What I did in this project?
 
