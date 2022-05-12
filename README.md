@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Technical Challenge Senior Backend Developer
+## Technical Challenge For Backend Developer Position
 
 This project is maded for a request for Backend Developer position
 
